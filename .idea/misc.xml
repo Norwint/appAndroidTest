@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/otc_portatil/AndroidStudioProjects/Dreamer/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3675" />
+        <entry key="..\:/Users/otc_portatil/AndroidStudioProjects/Dreamer/app/src/main/res/drawable/back.xml" value="0.2325" />
+        <entry key="..\:/Users/otc_portatil/AndroidStudioProjects/Dreamer/app/src/main/res/drawable/check.xml" value="0.2325" />
+        <entry key="..\:/Users/otc_portatil/AndroidStudioProjects/Dreamer/app/src/main/res/drawable/ic_baseline_arrow_back_ios_24.xml" value="0.3675" />
+        <entry key="..\:/Users/otc_portatil/AndroidStudioProjects/Dreamer/app/src/main/res/drawable/ic_baseline_arrow_forward_ios_24.xml" value="0.3675" />
+        <entry key="..\:/Users/otc_portatil/AndroidStudioProjects/Dreamer/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2325" />
+        <entry key="..\:/Users/otc_portatil/AndroidStudioProjects/Dreamer/app/src/main/res/drawable/ic_outline_auto_awesome_24.xml" value="0.3675" />
+        <entry key="..\:/Users/otc_portatil/AndroidStudioProjects/Dreamer/app/src/main/res/drawable/ic_round_check_circle_24.xml" value="0.3675" />
+        <entry key="..\:/Users/otc_portatil/AndroidStudioProjects/Dreamer/app/src/main/res/layout/activity_externalflow.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/otc_portatil/AndroidStudioProjects/Dreamer/app/src/main/res/layout/activity_getprepared.xml" value="0.176" />
+        <entry key="..\:/Users/otc_portatil/AndroidStudioProjects/Dreamer/app/src/main/res/layout/activity_home.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/otc_portatil/AndroidStudioProjects/Dreamer/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/otc_portatil/AndroidStudioProjects/Dreamer/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/otc_portatil/AndroidStudioProjects/Dreamer/app/src/main/res/layout/activity_rate.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/otc_portatil/AndroidStudioProjects/Dreamer/app/src/main/res/layout/activity_removedevice.xml" value="0.2" />
+        <entry key="..\:/Users/otc_portatil/AndroidStudioProjects/Dreamer/app/src/main/res/layout/activity_splash.xml" value="0.12" />
+        <entry key="..\:/Users/otc_portatil/AndroidStudioProjects/Dreamer/app/src/main/res/layout/activity_step2.xml" value="0.152" />
+        <entry key="..\:/Users/otc_portatil/AndroidStudioProjects/Dreamer/app/src/main/res/layout/activity_step3.xml" value="0.2" />
+        <entry key="..\:/Users/otc_portatil/AndroidStudioProjects/Dreamer/app/src/main/res/layout/activity_steps.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/otc_portatil/AndroidStudioProjects/Dreamer/app/src/main/res/layout/activity_task.xml" value="0.136" />
+        <entry key="..\:/Users/otc_portatil/AndroidStudioProjects/Dreamer/app/src/main/res/layout/activity_wrap.xml" value="0.2" />
+        <entry key="..\:/Users/otc_portatil/AndroidStudioProjects/Dreamer/app/src/main/res/layout/dialog_custom.xml" value="0.18333333333333332" />
+        <entry key="..\:/Users/otc_portatil/AndroidStudioProjects/Dreamer/app/src/main/res/layout/fragment_closeeyes.xml" value="0.16" />
+        <entry key="..\:/Users/otc_portatil/AndroidStudioProjects/Dreamer/app/src/main/res/layout/fragment_openeyes.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/otc_portatil/AndroidStudioProjects/Dreamer/app/src/main/res/layout/fragment_relaxation.xml" value="0.176" />
+        <entry key="..\:/Users/otc_portatil/AndroidStudioProjects/Dreamer/app/src/main/res/layout/fragment_relaxationcompleted.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/otc_portatil/AndroidStudioProjects/Dreamer/app/src/main/res/layout/fragment_step1.xml" value="0.2" />
+        <entry key="..\:/Users/otc_portatil/AndroidStudioProjects/Dreamer/app/src/main/res/layout/fragment_step1task1.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/otc_portatil/AndroidStudioProjects/Dreamer/app/src/main/res/layout/fragment_step2.xml" value="0.4" />
+        <entry key="..\:/Users/otc_portatil/AndroidStudioProjects/Dreamer/app/src/main/res/layout/fragment_step2task1.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/otc_portatil/AndroidStudioProjects/Dreamer/app/src/main/res/layout/fragment_step3.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/otc_portatil/AndroidStudioProjects/Dreamer/app/src/main/res/layout/fragment_step4.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/otc_portatil/AndroidStudioProjects/Dreamer/app/src/main/res/layout/fragment_step5.xml" value="0.4" />
+        <entry key="..\:/Users/otc_portatil/AndroidStudioProjects/Dreamer/app/src/main/res/layout/fragment_step5task1.xml" value="0.12708333333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.16" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

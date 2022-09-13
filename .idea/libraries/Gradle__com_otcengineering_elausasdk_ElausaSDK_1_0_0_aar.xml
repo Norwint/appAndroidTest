@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.otcengineering.elausasdk:ElausaSDK:1.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/b2028c689b05cda0ad64c155cea7fc2f/transformed/ElausaSDK-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b2028c689b05cda0ad64c155cea7fc2f/transformed/ElausaSDK-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b2028c689b05cda0ad64c155cea7fc2f/transformed/ElausaSDK-1.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

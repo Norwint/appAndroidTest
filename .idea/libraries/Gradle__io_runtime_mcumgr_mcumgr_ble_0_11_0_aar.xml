@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: io.runtime.mcumgr:mcumgr-ble:0.11.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/fdcaebb423be84042e09de9b0a1ff50b/transformed/mcumgr-ble-0.11.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/fdcaebb423be84042e09de9b0a1ff50b/transformed/mcumgr-ble-0.11.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/fdcaebb423be84042e09de9b0a1ff50b/transformed/mcumgr-ble-0.11.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.runtime.mcumgr/mcumgr-ble/0.11.0/dd5ccc908e501f386ce07576baffeac3f3c85d1f/mcumgr-ble-0.11.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.runtime.mcumgr/mcumgr-ble/0.11.0/7673ff5f5b8c796fd03b472365ed08569e788b0c/mcumgr-ble-0.11.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
